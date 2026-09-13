@@ -1,0 +1,29 @@
+{"hello_message":"مرحبا في التطبيق",
+"mainpage":{
+    "langCode":"AR",
+    "title":"أول مشروع لي",
+    "imagesDisplayed":"صورتان معروضتان",
+    "signup":"التسجيل"
+},
+
+"shoppingScreen":{
+    "Shopping Screen":"صفحة التسوق",
+    "Hot Offers":"عروض مميزة",
+    "Our Products":"منتجاتنا"
+    ,"itemAdded":"تم إضافة المنتج إلى العربة"
+},
+
+
+"signuppage":{
+    "Full Name":"الإسم بالكامل",
+    "fullNameLabel":"أدخل إسمك",
+    "Email":"البريد الإلكتروني",
+    "emailLabel":"أدخل بريدك الإلكتروني",
+    "Password":"الكلمة المرورية",
+    "Confirm Password":"تأكيد الكلمة المرورية",
+    "signup":"التسجيل",
+    "Close":"إغلاق"
+    ,"accountCreation":"تم إنشاء الحساب بنجاح"
+}
+
+}

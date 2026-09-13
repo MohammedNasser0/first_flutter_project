@@ -1,0 +1,28 @@
+{"hello_message":"Hello in the app",
+"mainpage":{
+    "langCode":"EN",
+    "title":"My First Project",
+    "imagesDisplayed":"Two images are displayed",
+    "signup":"Sign Up"
+},
+
+"shoppingScreen":{
+    "Shopping Screen":"Shopping Screen",
+    "Hot Offers":"Hot Offers",
+    "Our Products":"Our Products",
+    "itemAdded":"Item added to the cart"
+},
+
+"signuppage":{
+    "Full Name":"Full Name",
+    "fullNameLabel":"Enter your name",
+    "Email":"Email",
+    "emailLabel":"Enter your email",
+    "Password":"Password",
+    "Confirm Password":"Confirm Password",
+    "signup":"Sign Up",
+    "Close":"Close",
+    "accountCreation":"Account created successfully"
+}
+
+}
