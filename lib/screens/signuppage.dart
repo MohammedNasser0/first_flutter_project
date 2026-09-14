@@ -19,7 +19,7 @@ class _SignUpPageState extends State<SignUpPage> {
     Navigator.pushReplacement(
       context,
       PageRouteBuilder(
-        transitionDuration: const Duration(milliseconds: 3000),
+        transitionDuration: const Duration(milliseconds: 600),
         reverseTransitionDuration: const Duration(milliseconds: 400),
 
         pageBuilder: (context, animation, secondaryAnimation) {
